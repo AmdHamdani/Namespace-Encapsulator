@@ -1,0 +1,5 @@
+__USING__
+
+namespace __NAMESPACE__ {
+__SCRIPT__
+}
